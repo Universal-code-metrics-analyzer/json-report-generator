@@ -106,8 +106,8 @@ pydantic = "^2.7.0"
 [package.source]
 type = "git"
 url = "https://github.com/Universal-code-metrics-analyzer/core.git"
-reference = "dev"
-resolved_reference = "c561474deb56b9bcdcded089589e09e5404be72f"
+reference = "v0.1.0"
+resolved_reference = "f50c5f55d0f6ec29ad70088b5894bfefb0e2994c"
 
 [[package]]
 name = "flake8"
@@ -361,4 +361,4 @@ files = [
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.12"
-content-hash = "830e8fd39a29665f884b36a09f6440c912eba8a70f2ce6b154bb4f4be062fcac"
+content-hash = "4f0773ce32f614d101f994ba62764d1b1db9062beb4cfa6cd714aa5ecc2524b8"
