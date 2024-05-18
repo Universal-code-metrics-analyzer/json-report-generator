@@ -6,7 +6,7 @@ Report generator plugin, which can be used to save the result of metrics calcula
 **Install**
 
 ``` bash
-poetry add git+https://github.com/Universal-code-metrics-analyzer/json-report-generator@v0.1.0
+poetry add git+https://github.com/Universal-code-metrics-analyzer/json-report-generator@v0.2.0
 ```
 
 **Runner configuration**
